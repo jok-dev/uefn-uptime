@@ -5,6 +5,8 @@ repo: uefn-uptime # The name of this repository
 sites:
   - name: UEFN API
     url: https://horde.devtools-dev.epicgames.com
+  - name: Fortnite Datastorage
+    url: https://fn-service-datastorage-live-uefn-public.eeef.live.use1a.on.epicgames.com/
   - name: Epic Launcher
     url: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/distributionpoints
 
