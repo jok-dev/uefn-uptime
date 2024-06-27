@@ -5,18 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/horde.devtools-dev.epicgames.com.ico",
     "slug": "uefn-api",
     "status": "down",
-    "uptime": "89.74%",
-    "uptimeDay": "89.74%",
-    "uptimeWeek": "89.74%",
-    "uptimeMonth": "89.74%",
-    "uptimeYear": "89.74%",
+    "uptime": "1.27%",
+    "uptimeDay": "1.27%",
+    "uptimeWeek": "1.27%",
+    "uptimeMonth": "1.27%",
+    "uptimeYear": "1.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-27": 0
+      "2024-06-27": 34
     }
+  },
+  {
+    "name": "Epic Launcher",
+    "url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/distributionpoints",
+    "icon": "https://icons.duckduckgo.com/ip3/launcher-public-service-prod06.ol.epicgames.com.ico",
+    "slug": "epic-launcher",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
+    "dailyMinutesDown": {}
   }
 ]
