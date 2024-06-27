@@ -1,0 +1,58 @@
+[
+  {
+    "name": "UEFN Content Service",
+    "url": "https://content-service.bfda.live.use1a.on.epicgames.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/content-service.bfda.live.use1a.on.epicgames.com.ico",
+    "slug": "uefn-content-service",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Fortnite Datastorage",
+    "url": "https://fn-service-datastorage-live-uefn-public.eeef.live.use1a.on.epicgames.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/fn-service-datastorage-live-uefn-public.eeef.live.use1a.on.epicgames.com.ico",
+    "slug": "fortnite-datastorage",
+    "status": "up",
+    "uptime": "14.28%",
+    "uptimeDay": "14.28%",
+    "uptimeWeek": "14.28%",
+    "uptimeMonth": "14.28%",
+    "uptimeYear": "14.28%",
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
+    "dailyMinutesDown": {
+      "2024-06-27": 111
+    }
+  },
+  {
+    "name": "Epic Launcher",
+    "url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/distributionpoints",
+    "icon": "https://icons.duckduckgo.com/ip3/launcher-public-service-prod06.ol.epicgames.com.ico",
+    "slug": "epic-launcher",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
+    "dailyMinutesDown": {}
+  }
+]
