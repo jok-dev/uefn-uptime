@@ -5,6 +5,8 @@ repo: uefn-uptime # The name of this repository
 sites:
   - name: UEFN API
     url: https://horde.devtools-dev.epicgames.com
+  - name: Epic Launcher
+    url: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/distributionpoints
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
